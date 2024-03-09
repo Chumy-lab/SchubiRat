@@ -31,6 +31,6 @@
   "file_embed_footer_text": "Rat",
   "file_embed_footer_icon": "https://bigrat.monster/media/bigrat.png",
 
-  "validate_session": true,
+  "validate_session": false,
   "networth_api": ""
 }
